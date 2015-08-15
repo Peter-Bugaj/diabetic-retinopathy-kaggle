@@ -1,4 +1,4 @@
-package Experimentation;
+package experimentation;
 
 import io.FilePair;
 
